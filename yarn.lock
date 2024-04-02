@@ -2550,9 +2550,9 @@
     rimraf "^3.0.2"
 
 "@rnx-kit/rn-changelog-generator@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@rnx-kit/rn-changelog-generator/-/rn-changelog-generator-0.4.0.tgz#637d87bcf8de6e87599930ed88d9375010277660"
-  integrity sha512-Igq/5lA6/bYSAdxfk43nbMXIt4yKIspds2fsv5eqgeg4elLeWfzHSEM3tU0wPDnOk4m3qzVEyO9fbtu616Dyhw==
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/@rnx-kit/rn-changelog-generator/-/rn-changelog-generator-0.4.1.tgz#a43a7259fb64ca059f174c4bd263f137ec568358"
+  integrity sha512-oVyxmwZDM1DrbPT6rI/bT9Ryl4PCRDxs9IGNn7YoViFE1vOPagBFVDvFVq00Tr5nGDyi+nurGVObnCOS/hGJsg==
 
 "@seadub/danger-plugin-eslint@^3.0.2":
   version "3.0.2"
@@ -2560,9 +2560,9 @@
   integrity sha512-W+efX4mP04A8wMuLV0nV+iOj892Vrbyik+FyDZcGgpzkJFXX0UfDhOPZ0FonbSV0xM47DI5a8go88U/pBdGM2A==
 
 "@sideway/address@^4.1.0":
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/@sideway/address/-/address-4.1.0.tgz#0b301ada10ac4e0e3fa525c90615e0b61a72b78d"
-  integrity sha512-wAH/JYRXeIFQRsxerIuLjgUu2Xszam+O5xKeatJ4oudShOOirfmsQ1D6LL54XOU2tizpCYku+s1wmU0SYdpoSA==
+  version "4.1.5"
+  resolved "https://registry.yarnpkg.com/@sideway/address/-/address-4.1.5.tgz#4bc149a0076623ced99ca8208ba780d65a99b9d5"
+  integrity sha512-IqO/DUQHUkPeixNQ8n0JA6102hT9CmaljNTPmQ1u8MEhBo/R4Q8eKLN/vGZxuebwOroDB4cbpjheD4+/sKFK4Q==
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
