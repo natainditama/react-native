@@ -3511,9 +3511,9 @@ babel-plugin-syntax-trailing-function-commas@^7.0.0-beta.0:
   integrity sha512-Xj9XuRuz3nTSbaTXWv3itLOcxyF4oPD8douBBmj7U9BBC6nEBYfyOJYQMf/8PJAFotC62UY5dFfIGEPr7WswzQ==
 
 babel-plugin-transform-define@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-define/-/babel-plugin-transform-define-2.1.2.tgz#d23e692cf14c68af90ca81500cd953f84678ca28"
-  integrity sha512-kiIiwIRiOVvSChdXg0efxsP+I7e7kLQUoZDHY+gbDIq7r4FcvXlYClWbbDzoeTGxDkiuivQvbQ4uOEaTIGHoKw==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-define/-/babel-plugin-transform-define-2.1.4.tgz#8f7088211176a55a72788d584ceea9f691a021c1"
+  integrity sha512-NN9xFmyNvr4swPZkRWy+RZZoV0yHhPk/WoxpuIvcVkTyYf0xy/JTQeZVbVGX8hyJ0/NKKuxnt4BZz9No7BziVA==
   dependencies:
     lodash "^4.17.11"
     traverse "0.6.6"
